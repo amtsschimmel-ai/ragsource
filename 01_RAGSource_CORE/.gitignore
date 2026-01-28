@@ -1,0 +1,40 @@
+# Vertrauliche Daten
+20_LOKALE_DATEN/
+**/VERTRAULICH_*
+**/.env
+**/*.secret
+
+# API Keys
+.env
+.env.local
+*.key
+*.pem
+config/secrets.yaml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# Backup files
+*.bak
+*.backup
+*~
