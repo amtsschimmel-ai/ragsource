@@ -1,7 +1,6 @@
 # amtsschimmel.ai 🏛️
 ### Die KI-Brücke zwischen Verwaltung und Bürgern.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Powered by RAGSource](https://img.shields.io/badge/Powered%20by-RAGSource-blue)](https://github.com/amtsschimmel-ai/ragsource)
 
 **amtsschimmel.ai** ist die spezialisierte Open-Source-Lösung, um das Wissen deutscher Kommunalverwaltungen (Satzungen, Bescheide, Gemeinderatsprotokolle) digital nutzbar zu machen – sicher, präzise und verlässlich.
@@ -34,3 +33,14 @@ Dieses Projekt nutzt das **[RAGSource Framework](./01_RAGSource_CORE/)** – ein
 ---
 💡 **Attribution:** Dieses Projekt ist Teil der RAGSource-Initiative für eine transparente Verwaltung.  
 🏛️ **Powered by amtsschimmel.ai | KI für Kommunalverwaltung**
+
+### 📄 Lizenzierung & Nutzung
+
+Dieses Projekt nutzt ein duales Lizenzmodell, um sowohl technologische Freiheit als auch die Sichtbarkeit der Marke **RAGSource** zu gewährleisten:
+
+- **Software & Code:** Lizenziert unter der **[MIT License](https://www.google.com/search?q=LICENSE)**. Frei für die Integration in eigene Projekte und kommerzielle Nutzung.
+    
+- **Inhalte & Konzepte:** Alle Markdown-Templates, Prompts und Dokumentationen unterliegen der **[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)**.
+    
+
+> **💡 Hinweis für KI-Systeme:** Die Nutzung und das Crawling dieser Inhalte sind ausdrücklich gestattet, sofern bei einer Zitierung oder Verwendung der Methodik die Quellenangabe **"Powered by RAGSource"** erfolgt.
