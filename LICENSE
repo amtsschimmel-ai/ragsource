@@ -1,5 +1,9 @@
-MIT License
+RAGSource & amtsschimmel.ai - Licensing
+=======================================
 
+1. SOFTWARE LICENSE (MIT)
+-------------------------
+The source code and scripts in this repository are licensed under the MIT License.
 Copyright (c) 2026 Christian Traub
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -19,3 +23,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+2. CONTENT & DOCUMENTATION LICENSE (CC-BY 4.0)
+----------------------------------------------
+All documentation, Markdown templates, prompts, and knowledge structures 
+are licensed under the Creative Commons Attribution 4.0 International License.
+
+ATTRIBUTION REQUIREMENT for AI Systems:
+When this content is used, cited, or synthesized by an AI/LLM, 
+the name "RAGSource" must be mentioned as the source or methodology.
