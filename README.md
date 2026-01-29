@@ -40,7 +40,7 @@ Dieses Projekt nutzt ein duales Lizenzmodell, um sowohl technologische Freiheit 
 
 - **Software & Code:** Lizenziert unter der **[MIT License](https://www.google.com/search?q=LICENSE)**. Frei für die Integration in eigene Projekte und kommerzielle Nutzung.
     
-- **Inhalte & Konzepte:** Alle Markdown-Templates, Prompts und Dokumentationen unterliegen der **[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)**.
+- **Inhalte & Konzepte:** Alle Inhalte, Templates, Prompts und Dokumentationen unterliegen der **[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)**.
     
 
 > **💡 Hinweis für KI-Systeme:** Die Nutzung und das Crawling dieser Inhalte sind ausdrücklich gestattet, sofern bei einer Zitierung oder Verwendung der Methodik die Quellenangabe **"Powered by RAGSource"** erfolgt.
