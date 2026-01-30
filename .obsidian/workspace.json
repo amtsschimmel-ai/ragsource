@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_RAGSource_PROJECT/RAGIndex.md",
+                "file": "01_RAGSource_CORE/RAGSource_Masterprompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAGIndex"
+              "title": "RAGSource_Masterprompt"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "amtsschimmel.ragsource.ai/public/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_RAGSource_PROJECT/RAGIndex.md",
+                "file": "01_RAGSource_CORE/RAGSource_Masterprompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for RAGIndex"
+              "title": "Backlinks for RAGSource_Masterprompt"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_RAGSource_PROJECT/RAGIndex.md",
+                "file": "01_RAGSource_CORE/RAGSource_Masterprompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RAGIndex"
+              "title": "Outgoing links from RAGSource_Masterprompt"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_RAGSource_PROJECT/RAGIndex.md",
+                "file": "01_RAGSource_CORE/RAGSource_Masterprompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RAGIndex"
+              "title": "Outline of RAGSource_Masterprompt"
             }
           }
         ]
@@ -185,9 +186,10 @@
   },
   "active": "3ce6ba0da444286f",
   "lastOpenFiles": [
-    "10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-8_Besondere-Bestimmungen-fuer-Gemeinden-und-Gemeindeverbaende.md",
-    "01_RAGSource_CORE/RAGSource_Masterprompt.md",
     "02_RAGSource_PROJECT/RAGIndex.md",
+    "01_RAGSource_CORE/RAGSource_Masterprompt.md",
+    "10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Wasserversorgung.md",
+    "10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-8_Besondere-Bestimmungen-fuer-Gemeinden-und-Gemeindeverbaende.md",
     "01_RAGSource_CORE/RAGSource_TEMPLATES/RAGIndex_Template.md"
   ]
 }

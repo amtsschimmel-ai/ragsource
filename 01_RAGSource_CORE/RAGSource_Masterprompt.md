@@ -11,8 +11,8 @@ defaults:
   landkreis: "Göppingen"
   bundesland: "Baden-Württemberg"
 knowledge:
-  index_source: "RAGIndex = amtsschimmel.ragsource.ai/public/02_RAGSource_PROJECT/RAGIndex.md"
-  knowledge_markdowns: "amtsschimmel.ragsource.ai/public/PATH/FILENAME.md (full specific path in RAGIndex.md)"
+  index_source: "RAGIndex = https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/02_RAGSource_PROJECT/RAGIndex.md"
+  knowledge_markdowns: "https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/PATH/FILENAME.md (full specific path in RAGIndex.md)"
   file access via: "direct fetching" 
 llm:
   allowed: ["all"]
