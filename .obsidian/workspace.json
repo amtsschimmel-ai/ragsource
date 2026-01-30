@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,8 +185,9 @@
   },
   "active": "3ce6ba0da444286f",
   "lastOpenFiles": [
-    "02_RAGSource_PROJECT/RAGIndex.md",
+    "01_RAGSource_CORE/RAGSource_sys.md",
     "01_RAGSource_CORE/RAGSource_Masterprompt.md",
+    "02_RAGSource_PROJECT/RAGIndex.md",
     "10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Wasserversorgung.md",
     "10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-8_Besondere-Bestimmungen-fuer-Gemeinden-und-Gemeindeverbaende.md",
     "01_RAGSource_CORE/RAGSource_TEMPLATES/RAGIndex_Template.md"
