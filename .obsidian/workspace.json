@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_RAGSource_CORE/RAGSource_Masterprompt.md",
+                "file": "02_RAGSource_PROJECT/RAGIndex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAGSource_Masterprompt"
+              "title": "RAGIndex"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_RAGSource_CORE/RAGSource_Masterprompt.md",
+                "file": "02_RAGSource_PROJECT/RAGIndex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for RAGSource_Masterprompt"
+              "title": "Backlinks for RAGIndex"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_RAGSource_CORE/RAGSource_Masterprompt.md",
+                "file": "02_RAGSource_PROJECT/RAGIndex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RAGSource_Masterprompt"
+              "title": "Outgoing links from RAGIndex"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_RAGSource_CORE/RAGSource_Masterprompt.md",
+                "file": "02_RAGSource_PROJECT/RAGIndex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RAGSource_Masterprompt"
+              "title": "Outline of RAGIndex"
             }
           }
         ]
@@ -185,9 +185,17 @@
   },
   "active": "3ce6ba0da444286f",
   "lastOpenFiles": [
-    "01_RAGSource_CORE/RAGSource_sys.md",
-    "01_RAGSource_CORE/RAGSource_Masterprompt.md",
+    "10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/Untitled.md",
     "02_RAGSource_PROJECT/RAGIndex.md",
+    "01_RAGSource_CORE/RAGSource_Masterprompt_Langdock.md",
+    "01_RAGSource_CORE/RAGSource_Masterprompt.md",
+    "10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-3_Gemeindewirtschaft_ABSCHNITT-1_Haushaltswirtschaft.md",
+    "10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/RAGIndex.md",
+    "10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/VwG - BW.md",
+    "10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/RAGIndex.md",
+    "10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Richtlinie_Ehrungen.md",
+    "10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/Abwassersatzung-BBO.md",
+    "01_RAGSource_CORE/RAGSource_sys.md",
     "10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Wasserversorgung.md",
     "10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-8_Besondere-Bestimmungen-fuer-Gemeinden-und-Gemeindeverbaende.md",
     "01_RAGSource_CORE/RAGSource_TEMPLATES/RAGIndex_Template.md"

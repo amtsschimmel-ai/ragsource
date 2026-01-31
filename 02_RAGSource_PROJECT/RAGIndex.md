@@ -24,7 +24,7 @@
 
 
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Hauptsatzung.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Hauptsatzung.md`
 
 **Keywords:** Hauptsatzung, Gemeindeverfassung, Gemeinderat, Ausschuss, Verwaltungsausschuss, Technik, Umwelt, Umlegungsausschuss, Bürgermeister, Zuständigkeit, Organisation, Geschäftsverteilung, Verwaltung, Gemeinderatsverfassung, GemO, Struktur, Aufgaben, Kompetenz, Befugnis
 
@@ -43,7 +43,7 @@
 
 ### 1.2 Geschäftsordnung des Gemeinderats
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Geschaeftsordnung_Gemeinderat.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Geschaeftsordnung_Gemeinderat.md`
 
 **Keywords:** Geschäftsordnung, Gemeinderat, Sitzung, Tagesordnung, Beschluss, Abstimmung, öffentlich, nichtöffentlich, Protokoll, Einberufung, beschlussfähig, Ausschuss, Verfahren, Sitzungsablauf, TO, Beschlussfassung, Mehrheit, Vertraulichkeit
 
@@ -61,7 +61,7 @@
 
 ### 1.3 Satzung über Form der öffentlichen Bekanntmachung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Form_der_oeffentlichen_Bekanntmachung.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Form_der_oeffentlichen_Bekanntmachung.md`
 
 **Keywords:** Bekanntmachung, Veröffentlichung, Mitteilungsblatt, Amtsblatt, amtlich, Inkrafttreten, Satzung verkünden, öffentlich, publizieren, Publikation, Verkündung, Wirksamkeit
 
@@ -81,7 +81,7 @@
 
 ### 2.1 Wasserversorgungssatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Wasserversorgung.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Wasserversorgung.md`
 
 **Keywords:** Wasser, Wasserversorgung, Trinkwasser, Wasseranschluss, Wassergebühr, Wasserpreis, Wasserzähler, Wasserbeitrag, Erschließungsbeitrag Wasser, Verbrauchsgebühr, Grundgebühr, Anschlusszwang, Benutzungszwang, Kubikmeter, m³, Zähler, QN, Hausanschluss, Leitungswasser, Wasserleitung, Wasserversorgungsbeitrag
 
@@ -100,7 +100,7 @@
 
 ### 2.2 Abwassersatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/Abwassersatzung-BBO.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/Abwassersatzung-BBO.md`
 
 **Keywords:** Abwasser, Kanalisation, Kanal, Abwassergebühr, Kanalbeitrag, Erschließungsbeitrag Kanal, Schmutzwasser, Regenwasser, Niederschlagswasser, Abwasseranschluss, Anschlusszwang Kanal, Kanalgebühr, Entwässerung, Grundstücksentwässerung, Versickerung, Ableitung, Kanalanschluss
 
@@ -118,7 +118,7 @@
 
 ### 2.3 Erschließungsbeitragssatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Erschliessungsbeitrag.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Erschliessungsbeitrag.md`
 
 **Keywords:** Erschließung, Erschließungsbeitrag, Anliegerbeitrag, Straße, Straßenbau, Infrastruktur, Erschließungskosten, Ausbaubeitrag, Weg, Platz, Beitrag, Grundstück, Anlieger, Straßenerschließung, Erschließungsanlage
 
@@ -136,7 +136,7 @@
 
 ### 2.4 Hundesteuersatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Erhebung_Hundesteuer.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Erhebung_Hundesteuer.md`
 
 **Keywords:** Hund, Hundesteuer, Hundeabgabe, Hundeanmeldung, Hund anmelden, Kampfhund, gefährlicher Hund, Listenhund, Zweithund, Ersthund, Blindenhund, Jagdhund, Befreiung, Steuerbefreiung, Hundehaltung, Hundebesitzer
 
@@ -155,7 +155,7 @@
 
 ### 2.5 Hebesatzsatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Hebesatzsatzung.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Hebesatzsatzung.md`
 
 **Keywords:** Grundsteuer, Gewerbesteuer, Hebesatz, Steuer, Realsteuer, Grundsteuer A, Grundsteuer B, Gewerbesteuerhebesatz, Steuersatz, Besteuerung, Steuerbescheid
 
@@ -173,7 +173,7 @@
 
 ### 2.6 Verwaltungsgebührensatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Verwaltungsgebuehren.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Verwaltungsgebuehren.md`
 
 **Keywords:** Verwaltungsgebühr, Gebühr, Bescheinigung, Beglaubigung, Beurkundung, Meldebescheinigung, Auskunft, Verwaltungsakt, Personalausweis, Kosten, Amtshandlung, Zeugnis, Bestätigung, Ausweis
 
@@ -191,7 +191,7 @@
 
 ### 2.7 Kindergartengebührensatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Kindergartengebuehren.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Kindergartengebuehren.md`
 
 **Keywords:** Kindergarten, Kita, Kinderbetreuung, Kindergartengebühr, Betreuung, VÖ, verlängerte Öffnungszeiten, Ganztag, Ganztagsbetreuung, Kinderkrippe, Betreuungskosten, Geschwister, Geschwisterrabatt, anmelden, Kindergartenplatz, Kiga, Kindergebühr
 
@@ -210,7 +210,7 @@
 
 ### 2.8 Gebührenordnung für öffentliche Räume
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Gebuehrenordnung_oeffentliche_Raeume.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Gebuehrenordnung_oeffentliche_Raeume.md`
 
 **Keywords:** Raummiete, mieten, Saal, Halle, Dorfhaus, Eckwälden, Bürgersaal, Altes Schulhaus, Aula, Schulzentrum, Sporthalle, Veranstaltungsraum, Gemeindehalle, Raumvermietung, Hallennutzung, Verein, privat, Miete, Gebühr, auswärtig
 
@@ -228,7 +228,7 @@
 
 ### 2.9 Gebühren Schülerbetreuung Ratzefummel
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Gebuehren_Ratzefummel.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Gebuehren_Ratzefummel.md`
 
 **Keywords:** Ratzefummel, Schülerbetreuung, Nachmittagsbetreuung, Hort, Grundschule, Heinrich-Schickhardt-Schule, Betreuung, Ferienbetreuung, Schulbetreuung, Ganztagsschule, Betreuungskosten, Nachmittag, HSS
 
@@ -246,7 +246,7 @@
 
 ### 2.10 Sondernutzungssatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Sondernutzungssatzung.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Sondernutzungssatzung.md`
 
 **Keywords:** Sondernutzung, Straßennutzung, Außengastronomie, Tische, Stühle, Gehweg, Gerüst, Baugerüst, Container, Straßensperrung, Marktstand, Verkaufsstand, Werbeaufsteller, Werbeschild, Plakatierung, Fahrzeug abstellen, Lagerung, Baumaterial, Veranstaltung, Feldweg befahren
 
@@ -266,7 +266,7 @@
 
 ### 3.1 Feuerwehrsatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Feuerwehrsatzung.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Feuerwehrsatzung.md`
 
 **Keywords:** Feuerwehr, Freiwillige Feuerwehr, FFW, Organisation, Einsatzabteilung, Jugendfeuerwehr, JF, Altersabteilung, Feuerwehrkommandant, Kommandant, Stellvertreter, beitreten, Aufnahme, Mitglied werden, Dienstpflicht, Feuerwehrausschuss, Hauptversammlung, Alterswehr, JFW
 
@@ -285,7 +285,7 @@
 
 ### 3.2 Feuerwehrentschädigungssatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Feuerwehrentschaedigungssatzung.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Feuerwehrentschaedigungssatzung.md`
 
 **Keywords:** Feuerwehr, Entschädigung, Aufwandsentschädigung, Kommandant, Verdienstausfall, Sitzungsgeld, Ausschuss, Feuerwehrausschuss, Vergütung, Bezahlung, Feuerwehrmann, ehrenamtlich, Auslagenersatz
 
@@ -303,7 +303,7 @@
 
 ### 3.3 Feuerwehrkostenersatzsatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Feuerwehrkostenersatzsatzung.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Feuerwehrkostenersatzsatzung.md`
 
 **Keywords:** Feuerwehr, Kosten, Kostenersatz, Einsatz, Feuerwehreinsatz, kostenpflichtig, bezahlen, Rechnung, Fehlalarm, Brandmeldeanlage, BMA, Unfall, Verkehrsunfall, Auto, PKW, Fahrzeug, Brand, Gewerbe, gewerblich, Industrie, Industriebrand, Gefahrstoff, vorsätzlich, fahrlässig, grob fahrlässig, Verursacher, Halter, Brandsicherheitswache, eCall, Notruf, automatischer Notruf, mutwillig, Alarmierung
 
@@ -324,7 +324,7 @@
 
 ### 4.1 Bücherei
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Benutzungsordnung_Buecherei.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Benutzungsordnung_Buecherei.md`
 
 **Keywords:** Bücherei, Bibliothek, Gemeindebücherei, Ausleihe, ausleihen, Buch, Medien, Leihfrist, Mahnung, Mahngebühr, anmelden, Leser, Leserausweis, Bücherkarte, Verlängerung, Rückgabe, Öffnungszeiten
 
@@ -343,7 +343,7 @@
 
 ### 4.2 Sporthallen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Benutzungsordnung_Sporthallen.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Benutzungsordnung_Sporthallen.md`
 
 **Keywords:** Sporthalle, Turnhalle, Halle, mieten, Hallennutzung, Belegung, Belegungsplan, Verein, Schulsport, Vereinssport, Sport, Hallensport, Turnhallenbelegung, Sporthallenordnung, Nutzung
 
@@ -362,7 +362,7 @@
 
 ### 4.3 Grünmassesammelplatz
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Benutzung_Gruenmassesammelplatz.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Benutzung_Gruenmassesammelplatz.md`
 
 **Keywords:** Grünabfall, Gartenabfall, Grünschnitt, Kompost, Kompostplatz, Häckselplatz, Grünmasse, Rasenschnitt, Strauchschnitt, Baumschnitt, Ast, Äste, Laub, entsorgen, Entsorgung, Grüngut, Biomüll, Baumstumpf, Wurzel, kostenlos
 
@@ -381,7 +381,7 @@
 
 ### 4.4 Kleinspielfeld
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Benutzung_Kleinspielfeld.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Benutzung_Kleinspielfeld.md`
 
 **Keywords:** Kleinspielfeld, Bolzplatz, Spielfeld, Schulweg, Sportplatz, Fußball, kicken, bolzen, TSV Boll, TSV, Freizeitanlage, Kunstrasen, Rasenplatz, Sport, Fußballplatz, Hochsprung, reservieren, buchen
 
@@ -400,7 +400,7 @@
 
 ### 4.5 Schulhof
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Benutzung_Schulhof.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Benutzung_Schulhof.md`
 
 **Keywords:** Schulhof, Pausenhof, Schulgelände, Schulzentrum, Heinrich-Schickhardt-Schule, HSS, Schule, Spielplatz, öffentlich, Öffnungszeiten, Hund, Alkohol, Rauchen, Motorrad, Auto, Fahrrad, Lärm, Wochenende, abends, Spielfläche
 
@@ -419,7 +419,7 @@
 
 ### 4.6 Freibad
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Freibad.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Freibad.md`
 
 **Keywords:** Freibad, Schwimmbad, Bad, schwimmen, Baden, Eintritt, Eintrittspreis, Saisonkarte, Dauerkarte, Zehnerkarte, Abendtarif, Nichtschwimmer, Badeordnung, Öffnungszeiten, Becken, Schwimmbecken, Dusche, Kinder, Bademeister, Badegast
 
@@ -438,7 +438,7 @@
 
 ### 4.7 Friedhof
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Friedhof.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Friedhof.md`
 
 **Keywords:** Friedhof, Bestattung, Beerdigung, Grab, Grabstätte, Urne, Urnenbestattung, Erdbestattung, Sarg, Wahlgrab, Reihengrab, Baumbestattung, Baumgrab, Rasengrab, anonyme Bestattung, Ruhezeit, Grabmal, Grabstein, Grabpflege, Friedhofsgebühr, Bestattungsgebühr, Eckwälden, Tod, Beisetzung, Trauerfeier, Grabnutzung
 
@@ -458,7 +458,7 @@
 
 ### 4.8 Obdachlosen- und Flüchtlingsunterkünfte
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Benutzung_von_Obdachlosen-_und_Fluechtlingsunterkuenften.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Benutzung_von_Obdachlosen-_und_Fluechtlingsunterkuenften.md`
 
 **Keywords:** Obdachlos, Obdachlosenunterkunft, Notunterkunft, Flüchtling, Flüchtlingsunterkunft, Unterkunft, Unterbringung, Wohnungsnotlage, wohnungslos, Asyl, Benutzungsgebühr, Betriebskosten, Miete, vorübergehend, Sozialamt, Notlage
 
@@ -479,7 +479,7 @@
 
 ### 5.1 Polizeiverordnung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Polizeiverordnung.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Polizeiverordnung.md`
 
 **Keywords:** Polizei, Ordnung, Lärmschutz, Lärm, Ruhezeit, Nachtruhe, Mittagsruhe, ruhig, laut, Hund, Leinenpflicht, Leine, Hundekot, Kot, Haufen, beseitigen, Grünanlage, Park, Umwelt, Hausnummer, Ordnungswidrigkeit, Bußgeld, Strafe, Rasenmäher, Motorsäge, Musik, Party, Feier, Störung
 
@@ -499,7 +499,7 @@
 
 ### 5.2 Katzenschutzverordnung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Verordnung_Katzenschutzverordnung.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Verordnung_Katzenschutzverordnung.md`
 
 **Keywords:** Katze, Katzenschutz, Kennzeichnung, Chip, Chippen, Registrierung, registrieren, Kastration, kastrieren, Freigänger, Freigängerkatze, Tierschutz, Haustier
 
@@ -517,7 +517,7 @@
 
 ### 5.3 Marktordnung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Marktordnung.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Marktordnung.md`
 
 **Keywords:** Markt, Wochenmarkt, Bauernmarkt, Marktstand, Stand, Standplatz, Marktzeit, Marktaufbau, Verkauf, Händler, Marktplatz, Verkaufsstand
 
@@ -535,7 +535,7 @@
 
 ### 5.4 Richtlinie Ehrungen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Richtlinie_Ehrungen.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Richtlinie_Ehrungen.md`
 
 **Keywords:** Ehrung, Auszeichnung, Ehrenbürger, Verdienstmedaille, Jubiläum, Verdienst, ehren, auszeichnen, Anerkennung, Würdigung
 
@@ -553,7 +553,7 @@
 
 ### 5.5 Richtlinie Veröffentlichung Mitteilungsblatt
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Richtlinie_Veroeffentlichung_Mitteilngsblatt.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Richtlinie_Veroeffentlichung_Mitteilngsblatt.md`
 
 **Keywords:** Mitteilungsblatt, Amtsblatt, Veröffentlichung, Anzeige, Inserat, Werbung, publizieren, Redaktionsschluss, Annahmeschluss, Kosten, Preis, Anzeigenpreis
 
@@ -571,7 +571,7 @@
 
 ### 5.6 Richtlinie Bauernmarkt
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Richtlinie_Bauernmarkt.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Richtlinie_Bauernmarkt.md`
 
 **Keywords:** Bauernmarkt, Markt, Direktvermarkter, regional, Anbieter, Erzeuger, Produkte, Landwirt, Bauer, Verkauf, Markttag, Wochenmarkt
 
@@ -589,7 +589,7 @@
 
 ### 5.7 Streupflichtsatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Streupflicht.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Streupflicht.md`
 
 **Keywords:** Winter, Winterdienst, Schnee, Eis, räumen, streuen, Räumpflicht, Streupflicht, Gehweg, Anlieger, Grundstück, Schneeräumen, Schneeschippen, Salz, Split, Glatteis, Verkehrssicherung, Gehwegreinigung
 
@@ -610,7 +610,7 @@
 
 ### 6.1 Satzung über weitere Verkaufssonntage
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_weitere_Verkaufssonntage.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_weitere_Verkaufssonntage.md`
 
 **Keywords:** Verkaufssonntag, verkaufsoffen, Sonntag, Öffnungszeiten, einkaufen, Laden, Einzelhandel, Geschäft, Shopping, geöffnet, Ladenschluss
 
@@ -630,7 +630,7 @@
 
 ### 7.1 Kostenerstattung Ausgleichs- und Ersatzmaßnahmen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Kostenerstattung_Ausgleichs-_und_Ersatzmassnahmen_BauGB.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Kostenerstattung_Ausgleichs-_und_Ersatzmassnahmen_BauGB.md`
 
 **Keywords:** Ausgleichsmaßnahme, Ersatzmaßnahme, Ökokonto, Naturschutz, Eingriff, Ausgleich, Naturschutzausgleich, Kompensation, Bauvorhaben, bauen, Eingriffsregelung, Umwelt, Biotop, Kosten, Erstattung
 
@@ -650,7 +650,7 @@
 
 ### 8.1 Eigenbetrieb Wasserversorgung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Eigenbetrieb_Wasserversorgung.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Eigenbetrieb_Wasserversorgung.md`
 
 **Keywords:** Eigenbetrieb, Wasserversorgung, Betriebssatzung, Werkausschuss, Wasser, Betreiber, Betriebsführung, Organisation, Wirtschaftsplan, Rechnungswesen
 
@@ -668,7 +668,7 @@
 
 ### 8.2 Entschädigungssatzung ehrenamtliche Tätigkeit
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Entschaedigung_ehrenamtliche_Taetigkeit.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Satzung_Entschaedigung_ehrenamtliche_Taetigkeit.md`
 
 **Keywords:** Ehrenamt, ehrenamtlich, Entschädigung, Sitzungsgeld, Aufwandsentschädigung, Gemeinderat, Ausschuss, Verdienstausfall, Reisekosten, Auslagen, Vergütung, Aufwand, Bezahlung, GR
 
@@ -686,7 +686,7 @@
 
 ### 8.3 Leitbild und Umweltleitlinien
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Leitbild_Umweltleitlinien.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_Leitbild_Umweltleitlinien.md`
 
 **Keywords:** Leitbild, Umwelt, Umweltschutz, Nachhaltigkeit, Klimaschutz, Umweltpolitik, Umweltziele, nachhaltig, Klima, CO2, Energie, Ziele, Vision, Grundsätze
 
@@ -704,7 +704,7 @@
 
 ### 8.4 Satzung Jagdgenossenschaft
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_SONSTIGES_Satzung_Jagdgenossenschaft.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-GEM-BBO/Satzungen-und-Ordnungen/BBO_SONSTIGES_Satzung_Jagdgenossenschaft.md`
 
 **Keywords:** Jagd, Jagdgenossenschaft, Jäger, jagen, Jagdrecht, Jagdpacht, Pacht, Wild, Wildschaden, Wald, Forst, Revier, Jagdvorstand, Jagdgenossen, Jagdbezirk
 
@@ -744,7 +744,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### Verbandssatzung des Gemeindeverwaltungsverbandes Raum Bad Boll
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/GVV-BBO_Satzung_Verbandssatzung.md`  
+**Datei:** `/GVV-BBO_Satzung_Verbandssatzung.md`  
 **Pfad:** `10_REGELUNGSRAHMEN/Regelungsmodul-GVV_Raum_Bad_Boll/GVV-BBO_Satzung_Verbandssatzung.md`
 
 **Keywords:** Gemeindeverwaltungsverband, GVV, Verwaltungsgemeinschaft, VG, Verband, interkommunal, interkommunale Zusammenarbeit, kommunale Zusammenarbeit, Mitgliedsgemeinden, Verbandsgemeinden, Aichelberg, Bad Boll, Dürnau, Gammelshausen, Hattenhofen, Zell unter Aichelberg, Zell u.A., Sitz, Rechtsform, Körperschaft, öffentlich-rechtlich, Verbandssatzung, Satzung, Organisation, Struktur, Aufgaben, Zuständigkeit, Zuständigkeiten, Aufgabenübertragung, Delegation, delegieren, Beratung, beraten, Beratungsaufgaben, Erledigung, erledigen, Erledigungsaufgaben, Erfüllung, erfüllen, Erfüllungsaufgaben, Kassenverwaltung, Kasse, Finanzen, Finanzwesen, Haushalt, Haushaltsplan, Rechnungswesen, Abgaben, Zahlungsverkehr, zahlen, überweisen, Rechnung, Tiefbau, Planung, Bauleitung, Bauaufsicht, örtlich, Straßenbau, Straßenplanung, Entwässerung, Entwässerungsanlage, Kanal, Kanalisation, Straßenunterhaltung, Straßenreinigung, Straßenbeleuchtung, Beleuchtung, Wasserversorgung, Wasserversorgungsnetz, Wasser, Personal, Personalwesen, Personalverwaltung, Besoldung, Vergütung, Gehaltsabrechnung, Lohn, Gehalt, Mitteilungsblatt, Amtsblatt, Veröffentlichung, Öffentlichkeitsarbeit, Bauleitplanung, Flächennutzungsplan, FNP, vorbereitende Bauleitplanung, Bebauungsplan, Straßenbaulast, Gemeindeverbindungsstraße, Kreisstraße, Soziales, Krankenpflegeverein, Mitgliederverwaltung, Mobilität, Bürgerauto, Auto, Fahrzeug, Bildung, Volkshochschule, VHS, Träger, Einrichtung, Organe, Organ, Verbandsversammlung, Versammlung, Mitgliederversammlung, Hauptversammlung, Verwaltungsrat, Rat, Verbandsvorsitzender, Vorsitzender, Vorsitz, Stellvertreter, stv., Wahl, wählen, Beschluss, Beschlussfassung, Abstimmung, abstimmen, Stimmrecht, Stimme, Stimmen, einheitlich, Gemeinde, Bürgermeister, OB, BM, Gemeinderat, Gemeinderäte, Gemeindevertreter, Sitzung, Tagesordnung, öffentlich, nichtöffentlich, vertraulich, Beschlussfähigkeit, beschlussfähig, Mehrheit, qualifiziert, Zweidrittel, 2/3, Satzung, Haushaltssatzung, Wirtschaftsplan, Jahresrechnung, Bilanz, Investition, Anschaffung, Herstellung, 50.000 Euro, Personal, Einstellung, Ernennung, A11, E11, Aufnahme, Austritt, Auflösung, Mitgliedschaft, Beitritt, Verwaltung, Personal, Beamte, Bedienstete, Angestellte, Mitarbeiter, Dienstvorgesetzter, Dienstherr, Haftung, haften, Verbandsaufgaben, Gemeindeaufgaben, Finanzierung, Kosten, Einnahmen, Ausgaben, Entgelte, Gebühren, kostendeckend, Zeitaufwand, Stundensatz, Abrechnung, Verbandsumlage, Umlage, Umlageschlüssel, Einwohner, Einwohnerzahl, Kapitalumlage, Investition, Vorauszahlung, ordentliches Ergebnis, Überschuss, Fehlbetrag, Bekanntmachung, veröffentlichen, publizieren, Schiedsstelle, Streitigkeit, Streit, Landratsamt, Vermittlung, gütlich, Einigung, Klage, Genehmigung, Rechtsaufsicht, Aufsicht, Regierungspräsidium, Ministerium, Innenministerium, GemO, Gemeindeordnung, GKZ, Gesetz über kommunale Zusammenarbeit, § 60, § 6, Änderung, geändert, Neufassung, Inkrafttreten, in Kraft, 01.07.2024, 15.05.2024, 18.01.1988
@@ -769,7 +769,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 1.1 Hauptsatzung des Landkreises Göppingen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Hauptsatzung.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Hauptsatzung.md`  
 **§§:** 1-10
 
 **Keywords:** Hauptsatzung, Kreisverfassung, Kreisordnung, Organe, Kreistag, Landrat, Zuständigkeiten, Ausschüsse, Verwaltungsausschuss, Sozialausschuss, Jugendhilfeausschuss, Umwelt Verkehr Ausschuss, Geschäftskreise, Delegation, Wertgrenzen, Beschlussrecht, Mitglieder, Wahl, Beteiligungsunternehmen, Sparkasse, Personal, Ehrungen, Satzungen
@@ -792,7 +792,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 1.2 Geschäftsordnung des Kreistags
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Geschaftsordnung_Kreistag.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Geschaftsordnung_Kreistag.md`  
 **§§:** 1-14
 
 **Keywords:** Geschäftsordnung, Kreistag, Sitzung, Vorsitz, Fraktionen, Sitzordnung, Einberufung, Tagesordnung, Teilnahmepflicht, Aussprache, Abstimmung, Wahlen, Anfragen, Fragestunde, Bürgerbeteiligung, Protokoll, Hausrecht, nichtöffentlich
@@ -814,7 +814,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 1.3 Archivordnung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Archivordnung.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Archivordnung.md`  
 **§§:** 1-12
 
 **Keywords:** Archiv, Kreisarchiv, Archivnutzung, Archivgut, Benutzung, berechtigtes Interesse, Sperrfristen, Öffnungszeiten, Reproduktionen, Gebühren, wissenschaftliche Forschung, Heimatgeschichte, Unterlagen Kreisverwaltung
@@ -835,7 +835,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 1.4 Satzung über öffentliche Bekanntmachungen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Satzung_oeffentliche_Bekanntmachungen.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Satzung_oeffentliche_Bekanntmachungen.md`  
 **§§:** 1-2
 
 **Keywords:** Bekanntmachungen, Veröffentlichung, NWZ, Göppinger Kreisnachrichten, Geislinger Zeitung, Amtsblatt, rechtswirksam, Satzungen, Verordnungen
@@ -856,7 +856,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 2.1 Satzung Jagdsteuer (AUFGEHOBEN)
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Aufhebung_Satzung_Jagdsteuer.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Aufhebung_Satzung_Jagdsteuer.md`  
 **Status:** AUFGEHOBEN 01.04.2009
 
 **Keywords:** Jagdsteuer, aufgehoben, nicht mehr gültig
@@ -872,7 +872,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 2.2 Gebührenverordnung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Gebuehrenverordnung.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Gebuehrenverordnung.md`  
 **§§:** 1-5
 
 **Keywords:** Gebührenverordnung, Verwaltungsgebühren, Landratsamt, untere Verwaltungsbehörde, Baurechtsbehörde, Zeitgebühr, Stundensatz, Ablehnung, Befreiung, Rechtsbehelf, Fotokopien, Beglaubigung, Aktenversand, Umsatzsteuer
@@ -893,7 +893,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 2.2.1 Änderungsverordnung Gebührenverordnung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_1_Verordnung_zur_Aenderung_der_Gebuehrenverordnung_ax.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_1_Verordnung_zur_Aenderung_der_Gebuehrenverordnung_ax.md`
 
 **Keywords:** Änderungsverordnung, Bauamt, Umweltschutzamt, Schornsteinfeger, Zweitbescheid, Abwasseranlagen, BImSchG, Arbeitsschutz, Betriebssicherheit, Arbeitszeitgesetz, Jugendarbeitsschutz, Feinstaubplakette
 
@@ -912,7 +912,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 2.2.2 Änderungsverordnung Gebührenverordnung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_2_Verordnung_zur_Aenderung_der_Gebuehrenverordnung_01-01-2026_ax.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_2_Verordnung_zur_Aenderung_der_Gebuehrenverordnung_01-01-2026_ax.md`
 
 **Keywords:** Änderungsverordnung, Mineralwasser, Thermalwasser, Thermalbad, Umweltschutzamt
 
@@ -930,7 +930,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 2.2.3 Gebührenverzeichnis - Teil 1 (Kommunalamt, Ordnungsamt, Veterinär, Gesundheitsamt)
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Gebuehrenverzeichnis_Anlage_zur_Gebuehrenverordnung_Teil_1_von_3.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Gebuehrenverzeichnis_Anlage_zur_Gebuehrenverordnung_Teil_1_von_3.md`  
 **Produktnummern:** 11.31.05, 12.20.02-12.26.08, 41.40
 
 **Keywords:** Gebührenverzeichnis, Waffenrecht, WBK, Waffenbesitzkarte, Waffenschein, Munitionserwerbsschein, Sprengstoff, Gaststättenerlaubnis, Gewerbeerlaubnis, Spielhalle, Bewachungsgewerbe, Heimaufsicht, WTPG, Namensänderung, Einbürgerung, Lebensmittelüberwachung, Fleischhygiene, Tierseuchen, Tierarzneimittel, Tierschutz, Kampfhund, Verhaltensprüfung, Amtsarzt, Gutachten, Kraftfahrzeugeignung, HIV-Test, Belehrung, Infektionsschutz, Hygienekontrolle, Trinkwasser, Badewasser, Zeitgebühr, Stundensatz
@@ -957,7 +957,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 2.2.4 Gebührenverzeichnis - Teil 2 (Umweltschutz, Naturschutz, Jagd, Fischerei)
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Gebuehrenverzeichnis_Anlage_zur_Gebuehrenverordnung_Teil_2_von_3.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Gebuehrenverzeichnis_Anlage_zur_Gebuehrenverordnung_Teil_2_von_3.md`  
 **Produktnummern:** 55.20, 55.40.02.01.00, 12.20.03.02.00, 56.10
 
 **Keywords:** Wasserrecht, Grundwasserentnahme, Brunnen, Erdwärmesonde, Geothermie, Abwasser, Einleitung, Gewässer, Wasserschutzgebiet, Naturschutz, Natura 2000, Landschaftsschutzgebiet, Biotop, Streuobstwiese, Eingriff, Ausgleich, Ökokonto, Auffüllung, Abgrabung, Bodenaushub, Steinbruch, Kiesgrube, Artenschutz, Werbeanlage, Jagdschein, Falkner, Fischereiprüfung, Altlasten, Sanierung, Bodenschutz, Deponie, Sammler, Beförderer, BImSchG, Immissionsschutz, Feinstaubplakette, UVP
@@ -987,7 +987,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 2.2.5 Gebührenverzeichnis - Teil 3 (Arbeitsschutz, Forst, Landwirtschaft, Bauamt, Denkmalschutz)
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Gebuehrenverzeichnis_Anlage_zur_Gebuehrenverordnung_Teil_3_von_3.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Gebuehrenverzeichnis_Anlage_zur_Gebuehrenverordnung_Teil_3_von_3.md`  
 **Produktnummern:** 56.20, 55.50, 55.51, 52.10, 52.30
 
 **Keywords:** Arbeitsschutz, Arbeitszeitgesetz, Ausnahmebewilligung, Sonn- und Feiertagsarbeit, Jugendarbeitsschutz, BetrSichV, Baugenehmigung, Bauantrag, vereinfachtes Verfahren, Bauvorbescheid, Kenntnisgabeverfahren, Befreiung, Ausnahme, BauGB, BauNVO, LBO, Geschossfläche, Baulinie, Firsthöhe, Traufhöhe, Dachform, Dachneigung, Bauüberwachung, Bauabnahme, Brandverhütungsschau, Abgeschlossenheitsbescheinigung, Wohnungseigentum, Schornsteinfeger, Kehrbezirk, Waldrodung, Kahlhieb, Wiederaufforstung, InVeKoS, FAKT, Pflanzenschutz, Sachkundenachweis, Denkmalschutz, Kulturdenkmal, Steuerbescheinigung
@@ -1016,7 +1016,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 2.5 Verwaltungsgebührensatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Satzung_Verwaltungsgebuehrensatzung.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Satzung_Verwaltungsgebuehrensatzung.md`  
 **§§:** 1-18
 
 **Keywords:** Verwaltungsgebührensatzung, Gebühren, öffentliche Leistungen, Gebührenschuldner, Eigenanteil, Beglaubigungen, Bescheinigungen, Rechtsbehelfe, Schulgebühren, Benutzungsgebühren, Obst-Gartenbau, Hochbauamt, Forstamt, Holzverkauf, Privatwald, Archiv, Stundensätze, Sondernutzung, Kreisstraßen
@@ -1038,7 +1038,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 2.5.1 Gebührenverzeichnis zur Verwaltungsgebührensatzung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Gebuehrenverzeichnis_zur_Verwaltungsgebuehrensatzung.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Gebuehrenverzeichnis_zur_Verwaltungsgebuehrensatzung.md`
 
 **Keywords:** Verwaltungsgebühren, Ablehnung Antrag, Ausfertigungen, Abschriften, Ablichtungen, Fotokopien, Akteneinsicht, Befreiung Rechtsvorschriften, Beitreibung, Bescheinigungen, Beglaubigungen, Unterschriftsbeglaubigung, Zurücknahme Antrag, Rechtsbehelf, Widerspruch, Schulzeugnisse, Zeugnisbeglaubigung, Schülerausweis, Obst- und Gartenbau, LOGL, Sachkundenachweis, Gutachten, Stundensatz, VwV-Kostenfestlegung, Dienstgruppe
 
@@ -1062,7 +1062,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 2.6 Entgeltordnung - Benutzung kreiseigener Einrichtungen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Gebuehrenverzeichnis_Entgeltordnung.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Gebuehrenverzeichnis_Entgeltordnung.md`  
 **Gültig ab:** 01.01.2021
 
 **Keywords:** Entgeltordnung, Benutzungsentgelte, Kreishochbauamt, technische Beratung, HOAI, Schulgelder, Kreisarchivar, Gemeindearchivpfleger, Forstamt, Privatwald, Privatwaldbetreuung, Kommunalwald, Holzverkauf, Holzverkaufsstelle, Waldinspektionsvertrag, ständige Betreuung, fallweise Betreuung, Holzauszeichnung, Festmeter, GEHO, Stundensatz, Dienstgruppe
@@ -1089,7 +1089,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 3.1 Entschädigungssatzung ehrenamtliche Tätigkeit
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Satzung_Entschaedigung_ehrenamtliche_Taetigkeit.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Satzung_Entschaedigung_ehrenamtliche_Taetigkeit.md`  
 **§§:** 1-5
 
 **Keywords:** Entschädigung, Ehrenamt, Sitzungsgeld, Aufwandsentschädigung, Kreistagsmitglieder, Ausschussmitglieder, Fraktionsvorsitzende, Monatspauschale, Selbständige, Betreuungspflichten, Kreisbrandmeister, Reisekosten, Verdienstausfall
@@ -1110,7 +1110,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 3.2 Satzung Jugendamt
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Satzung_Jugendamt.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Satzung_Jugendamt.md`  
 **§§:** 1-7
 
 **Keywords:** Jugendamt, Kreisjugendamt, Jugendhilfe, Jugendhilfeausschuss, JHA, Mitglieder, Kreisräte, Jugendverbände, Wohlfahrtspflege, beratende Mitglieder, Beschlussrecht, Jugendhilfeplanung, Anerkennung Träger, Förderung, Jugendschöffen
@@ -1131,7 +1131,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 3.3 Rabattierung Zeitfahrausweise Ausbildungsverkehr
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Satzung_Rabattierung_von_Zeitfahrausweisen_im_Ausbildungsverkehr.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Satzung_Rabattierung_von_Zeitfahrausweisen_im_Ausbildungsverkehr.md`  
 **§§:** 1-6
 
 **Keywords:** Rabattierung, Zeitfahrausweise, Ausbildungsverkehr, Schülerverkehr, Auszubildende, ÖPNV, VVS, D-Ticket JugendBW, Ausbildungstarif, Ausgleichsmittel, Verkehrsunternehmen, Expressbuslinie
@@ -1151,7 +1151,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 3.4 Schülerbeförderung Erstattung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Satzung_Erstattung_Schuelerbefoerderung.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Satzung_Erstattung_Schuelerbefoerderung.md`  
 **§§:** 1-21
 
 **Keywords:** Schülerbeförderung, Kostenerstattung, Schulweg, D-Ticket JugendBW, VVS-Ausbildungsticket, Eigenanteil, Mindestentfernung, Berufsschüler, SBBZ, Schulkindergarten, Begleitperson, Höchstbetrag, stundenplanmäßig, Wochenendheimfahrten, Antragsfrist, Verwendungsnachweis, private Kraftfahrzeuge
@@ -1175,7 +1175,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 4.1 Abfallwirtschaftssatzung Teil 1
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Abfallwirtschaftssatzung_Teil_1_von_2.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Abfallwirtschaftssatzung_Teil_1_von_2.md`  
 **§§:** 1-17
 
 **Keywords:** Abfallwirtschaftssatzung, Abfallentsorgung, Müllabfuhr, AWB, Abfallvermeidung, Recycling, Überlassungspflicht, Anschlusspflicht, Benutzungspflicht, Hausmüll, Restmüll, Sperrmüll, Bioabfall, Grünabfall, Wertstoffe, Altpapier, Glas, Elektroschrott, Altholz, Bauschutt, Schadstoffe, Abfallbehälter, Mülltonne, Biotonne, Transponder, Holsystem, Bringsystem, Wertstoffzentrum, Grügutplatz, Abfuhrtermin, Bereitstellung, Entsorgungsschein, Express-Sperrmüll
@@ -1198,7 +1198,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 4.2 Abfallwirtschaftssatzung Teil 2
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Abfallwirtschaftssatzung_Teil_2_von_2.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Abfallwirtschaftssatzung_Teil_2_von_2.md`  
 **§§:** 18-29
 
 **Keywords:** Abfallentsorgungsanlagen, Selbstanlieferer, Müllheizkraftwerk, Wertstoffhof, Benutzungsordnung, Härtefall, Befreiung, Benutzungsgebühren, Gebührenschuldner, Jahresgebühr, Leerungsgebühr, Mehrbedarfssack, AWB-Biobeutel, Selbstanlieferungsgebühr, Bodenaushub, Altholz, Altreifen, Entstehung, Fälligkeit, Vorauszahlung, Mindestleerung, Ordnungswidrigkeit, Geldbuße
@@ -1221,7 +1221,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 4.3 Betriebssatzung Abfallwirtschaftsbetrieb
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Betriebssatzung_Abfallwirtschaftsbetrieb.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Betriebssatzung_Abfallwirtschaftsbetrieb.md`  
 **§§:** 1-13
 
 **Keywords:** Betriebssatzung, Abfallwirtschaftsbetrieb, AWB, Eigenbetrieb, Organe, Kreistag, Betriebsausschuss, Landrat, Betriebsleitung, Erster Betriebsleiter, Zuständigkeiten, Wertgrenzen, Wirtschaftsplan, Finanzplan, Jahresabschluss, Wirtschaftsjahr, Geschäftsordnung
@@ -1244,7 +1244,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 5.1 Kulturförderrichtlinien
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Kulturfoerderrichtlinie.md`
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LKR-GP/LKR-GP_Kulturfoerderrichtlinie.md`
 
 **Keywords:** Kulturförderung, Kulturbudget, Fördermittel, Kulturprojekt, Kulturveranstaltung, Musik, Kunst, Kulturpflege, Bildung, gemeindeübergreifend, ehrenamtlich, Antragsfrist, Kostenplan, Verwendungsnachweis, Verwaltungsausschuss, Abmangelfinanzierung
 
@@ -1279,7 +1279,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.1 GemO-BW Teil 1: Wesen und Aufgaben der Gemeinde
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-1_Wesen-und-Aufgaben-der Gemeinde.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-1_Wesen-und-Aufgaben-der Gemeinde.md`  
 **§§:** 1-22
 
 **Keywords:** Selbstverwaltung, Wirkungskreis, Pflichtaufgaben, Weisungsaufgaben, freiwillige Aufgaben, Bürgerentscheid, Bürgerbegehren, Einwohnerversammlung, Anschluss-Benutzungszwang
@@ -1303,7 +1303,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.2 GemO-BW Teil 2.1: Organe der Gemeinde
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-2_Verfassung-und-Verwaltung-der-Gemeinde_ABSCHNITT-1_Organe-der-Gemeinde.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-2_Verfassung-und-Verwaltung-der-Gemeinde_ABSCHNITT-1_Organe-der-Gemeinde.md`  
 **§§:** 23
 
 **Keywords:** Verwaltungsorgane, Gemeinderat, Bürgermeister
@@ -1321,7 +1321,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.3 GemO-BW Teil 2.2: Gemeinderat
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-2_Verfassung-und-Verwaltung-der-Gemeinde_ABSCHNITT-2_Gemeinderat.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-2_Verfassung-und-Verwaltung-der-Gemeinde_ABSCHNITT-2_Gemeinderat.md`  
 **§§:** 24-41b
 
 **Keywords:** Gemeinderat, Stadtrat, Wahl, Fraktionen, Ausschüsse, Beschlussfassung, nichtöffentlich, Jugendgemeinderat
@@ -1346,7 +1346,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.4 GemO-BW Teil 2.3: Bürgermeister
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-2_Verfassung-und-Verwaltung-der-Gemeinde_ABSCHNITT-3_Buergermeister.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-2_Verfassung-und-Verwaltung-der-Gemeinde_ABSCHNITT-3_Buergermeister.md`  
 **§§:** 42-55
 
 **Keywords:** Bürgermeister, Oberbürgermeister, Direktwahl, Stichwahl, Amtszeit, Beigeordnete, Stellvertreter, Widerspruch Gemeinderatsbeschluss, Eilentscheidung
@@ -1372,7 +1372,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.5 GemO-BW Teil 2.4: Gemeindebedienstete
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-2_Verfassung-und-Verwaltung-der-Gemeinde_ABSCHNITT-4_Gemeindebedienstete.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-2_Verfassung-und-Verwaltung-der-Gemeinde_ABSCHNITT-4_Gemeindebedienstete.md`  
 **§§:** 56-58
 
 **Keywords:** Gemeindebedienstete, Beamte, Stellenplan, Gemeindefachbediensteter
@@ -1391,7 +1391,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.6 GemO-BW Teil 2.5: Besondere Verwaltungsformen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-2_Verfassung-und-Verwaltung-der-Gemeinde_ABSCHNITT-5_Besondere-Verwaltungsformen.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-2_Verfassung-und-Verwaltung-der-Gemeinde_ABSCHNITT-5_Besondere-Verwaltungsformen.md`  
 **§§:** 59-76
 
 **Keywords:** Verwaltungsgemeinschaft, Gemeindeverwaltungsverband, GVV, Ortschaftsverfassung, Ortschaftsrat, Bezirksverfassung, Stadtbezirk
@@ -1413,7 +1413,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.7 GemO-BW Teil 3.1: Haushaltswirtschaft
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-3_Gemeindewirtschaft_ABSCHNITT-1_Haushaltswirtschaft.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-3_Gemeindewirtschaft_ABSCHNITT-1_Haushaltswirtschaft.md`  
 **§§:** 77-95b
 
 **Keywords:** Haushaltssatzung, Haushaltsplan, Kommunale Doppik, Ergebnishaushalt, Finanzhaushalt, Kreditaufnahme, Nachtragshaushalt, Finanzplanung, Jahresabschluss
@@ -1437,7 +1437,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.8 GemO-BW Teil 3.2: Sondervermögen, Treuhandvermögen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-3_Gemeindewirtschaft_ABSCHNITT-2_Sondervermoegen-Treuhandvermoegen.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-3_Gemeindewirtschaft_ABSCHNITT-2_Sondervermoegen-Treuhandvermoegen.md`  
 **§§:** 96-101
 
 **Keywords:** Sondervermögen, Eigenbetriebe, Gemeindegliedervermögen, örtliche Stiftungen, Kameradschaftspflege Feuerwehr
@@ -1457,7 +1457,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.9 GemO-BW Teil 3.3: Unternehmen und Beteiligungen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-3_Gemeindewirtschaft_ABSCHNITT-3_Unternehmen_und_Beteiligungen.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-3_Gemeindewirtschaft_ABSCHNITT-3_Unternehmen_und_Beteiligungen.md`  
 **§§:** 102-108
 
 **Keywords:** wirtschaftliche Unternehmen, Daseinsvorsorge, Subsidiarität, GmbH, Beteiligungen, Beteiligungsbericht, Stadtwerke
@@ -1478,7 +1478,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.10 GemO-BW Teil 3.4: Prüfungswesen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-3_Gemeindewirtschaft_ABSCHNITT-4_Pruefungswesen.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-3_Gemeindewirtschaft_ABSCHNITT-4_Pruefungswesen.md`  
 **§§:** 109-115
 
 **Keywords:** Rechnungsprüfungsamt, örtliche Prüfung, überörtliche Prüfung, Gemeindeprüfungsanstalt
@@ -1498,7 +1498,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.11 GemO-BW Teil 3.5: Besorgung des Finanzwesens
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-3_Gemeindewirtschaft_ABSCHNITT-5_Besorgung-des-Finanzwesens.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-3_Gemeindewirtschaft_ABSCHNITT-5_Besorgung-des-Finanzwesens.md`  
 **§§:** 116
 
 **Keywords:** Fachbediensteter Finanzwesen, Kämmerer, Haushaltsüberwachung
@@ -1516,7 +1516,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.12 GemO-BW Teil 3.6: Unwirksame und nichtige Rechtsgeschäfte
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-3_Gemeindewirtschaft_ABSCHNITT-6_Unwirksame-und-nichtige-Rechtsgeschaefte.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-3_Gemeindewirtschaft_ABSCHNITT-6_Unwirksame-und-nichtige-Rechtsgeschaefte.md`  
 **§§:** 117
 
 **Keywords:** Rechtsgeschäfte unwirksam, nichtig, Genehmigung Rechtsaufsicht
@@ -1534,7 +1534,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.13 GemO-BW Teil 4: Aufsicht
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-4_Aufsicht.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-4_Aufsicht.md`  
 **§§:** 118-129
 
 **Keywords:** Rechtsaufsicht, Fachaufsicht, Beanstandung, Anordnung, Aufsichtsbehörden, Regierungspräsidium
@@ -1555,7 +1555,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.1.14 GemO-BW Teil 5: Übergangs- und Schlussbestimmungen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-5_Übergangs-und-Schlussbestimmungen.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/GemO-BW_TEIL-5_Übergangs-und-Schlussbestimmungen.md`  
 **§§:** 130-147
 
 **Keywords:** Stadtkreis, Große Kreisstadt, Ordnungswidrigkeiten, Durchführungsbestimmungen
@@ -1579,7 +1579,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.2.1 KAG-BW Teil 1: Allgemeine Vorschriften
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/KAG-BW_TEIL-1_Allgemeine-Vorschriften.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/KAG-BW_TEIL-1_Allgemeine-Vorschriften.md`  
 **§§:** 1-8
 
 **Keywords:** Kommunalabgaben, Steuern, Gebühren, Beiträge, Abgabensatzung, Abgabenhinterziehung, Kleinbeträge
@@ -1599,7 +1599,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.2.2 KAG-BW Teil 2: Steuern
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/KAG-BW_TEIL-2_Steuern.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/KAG-BW_TEIL-2_Steuern.md`  
 **§§:** 9-10
 
 **Keywords:** Gemeindesteuern, Kreissteuern, Grundsteuer, Gewerbesteuer, Hundesteuer, Jagdsteuer, Hebesatz
@@ -1619,7 +1619,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.2.3 KAG-BW Teil 3: Gebühren für öffentliche Leistungen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/KAG-BW_TEIL-3_Gebuehren-fuer-oeffentliche-Leistungen-einschliesslich-Benutzungsgebuehren.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/KAG-BW_TEIL-3_Gebuehren-fuer-oeffentliche-Leistungen-einschliesslich-Benutzungsgebuehren.md`  
 **§§:** 11-19
 
 **Keywords:** Verwaltungsgebühren, Benutzungsgebühren, Kostendeckung, Abwassergebühr, Wassergebühr, Müllgebühr, Kindergartengebühr
@@ -1640,7 +1640,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.2.4 KAG-BW Teil 4: Anschluss- und Erschließungsbeiträge
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/KAG-BW_TEIL-4_Anschluss-und-Erschliessungsbeitraege.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/KAG-BW_TEIL-4_Anschluss-und-Erschliessungsbeitraege.md`  
 **§§:** 20-41
 
 **Keywords:** Anschlussbeiträge, Erschließungsbeiträge, beitragsfähige Kosten, Erschließungsanlage, Straßenerschließung
@@ -1661,7 +1661,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.2.5 KAG-BW Teil 5: Kostenersatz und sonstige Abgaben
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/KAG-BW_TEIL-5_Kostenersatz-und-sonstige Abgaben.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/KAG-BW_TEIL-5_Kostenersatz-und-sonstige Abgaben.md`  
 **§§:** 42-45
 
 **Keywords:** Kostenersatz Hausanschlüsse, Kurtaxe, Fremdenverkehrsbeiträge
@@ -1681,7 +1681,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.2.6 KAG-BW Teil 6-7: Änderung Landesrecht, Schlussbestimmungen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/KAG-BW_TEIL-6-und-7_Aenderung-von-Landesrecht_Schlussbestimmungen.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/KAG-BW_TEIL-6-und-7_Aenderung-von-Landesrecht_Schlussbestimmungen.md`  
 **§§:** 46-49
 
 **Keywords:** Übergangsvorschriften, Durchführungsvorschriften
@@ -1699,7 +1699,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 1.3 Gesetz über die Eigenbetriebe der Gemeinden (EigBetrG-BW)
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/EigBetrG - BW.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/EigBetrG - BW.md`  
 **§§:** 1-19
 
 **Keywords:** Eigenbetrieb, Betriebssatzung, Betriebsleitung, Betriebsausschuss, Wirtschaftsplan, Jahresabschluss
@@ -1720,7 +1720,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 1.4 Landesverwaltungsgesetz (VwG-BW)
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/VwG - BW.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/VwG - BW.md`  
 **§§:** 1-28
 
 **Keywords:** Verwaltungsbehörden, Regierungspräsidien, Landratsämter, Große Kreisstadt, untere Verwaltungsbehörde, Dienstaufsicht, Fachaufsicht
@@ -1747,7 +1747,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.5.1 LVwVfG-BW Teil 1: Anwendungsbereich, Zuständigkeit, Amtshilfe
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-1_Anwendungsbereich_oertliche-Zustaendigkeit_elektronische-Kommunikation_Amtshilfe_europaeische-Verwaltungszusammenarbeit.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-1_Anwendungsbereich_oertliche-Zustaendigkeit_elektronische-Kommunikation_Amtshilfe_europaeische-Verwaltungszusammenarbeit.md`  
 **§§:** 1-8e
 
 **Keywords:** Verwaltungsverfahren Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation, De-Mail, Amtshilfe
@@ -1768,7 +1768,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.5.2 LVwVfG-BW Teil 2: Allgemeine Vorschriften Verwaltungsverfahren
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-2_allgemeine-Vorschriften-ueber-das-Verwaltungsverfahren.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-2_allgemeine-Vorschriften-ueber-das-Verwaltungsverfahren.md`  
 **§§:** 9-34
 
 **Keywords:** Beteiligte, Bevollmächtigte, Befangenheit, Anhörung, Akteneinsicht, Fristen, Wiedereinsetzung, Untersuchungsgrundsatz
@@ -1791,7 +1791,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.5.3 LVwVfG-BW Teil 3: Verwaltungsakt
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-3_Verwaltungsakt.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-3_Verwaltungsakt.md`  
 **§§:** 35-53
 
 **Keywords:** Verwaltungsakt, Nebenbestimmungen, Bekanntgabe, Nichtigkeit, Rücknahme rechtswidriger VA, Widerruf rechtmäßiger VA, Genehmigungsfiktion
@@ -1815,7 +1815,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.5.4 LVwVfG-BW Teil 4: Öffentlich-rechtlicher Vertrag
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-4_Oeffentlich-rechtlicher-Vertrag.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-4_Oeffentlich-rechtlicher-Vertrag.md`  
 **§§:** 54-62
 
 **Keywords:** öffentlich-rechtlicher Vertrag, Vergleichsvertrag, Austauschvertrag, Nichtigkeit, Vollstreckung
@@ -1837,7 +1837,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.5.5 LVwVfG-BW Teil 5: Besondere Verfahrensarten
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-5_Besondere-Verfahrensarten.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-5_Besondere-Verfahrensarten.md`  
 **§§:** 63-78
 
 **Keywords:** förmliches Verwaltungsverfahren, mündliche Verhandlung, einheitliche Stelle, Planfeststellungsverfahren, Anhörungsverfahren, Plangenehmigung
@@ -1859,7 +1859,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.5.6 LVwVfG-BW Teil 6: Rechtsbehelfsverfahren
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-6_Rechtsbehelfsverfahren.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-6_Rechtsbehelfsverfahren.md`  
 **§§:** 79-80
 
 **Keywords:** Widerspruch, Vorverfahren, Kosten Widerspruchsverfahren
@@ -1879,7 +1879,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.5.7 LVwVfG-BW Teil 7: Ehrenamtliche Tätigkeit, Ausschüsse
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-7_Ehrenamtliche-TÃ¤tigkeit_Ausschuesse.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-7_Ehrenamtliche-TÃ¤tigkeit_Ausschuesse.md`  
 **§§:** 81-93
 
 **Keywords:** ehrenamtliche Tätigkeit, Verschwiegenheitspflicht, Entschädigung Ehrenamtliche, Ausschüsse, Beschlussfähigkeit
@@ -1899,7 +1899,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.5.8 LVwVfG-BW Teil 8: Besondere Bestimmungen Gemeinden
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-8_Besondere-Bestimmungen-fuer-Gemeinden-und-Gemeindeverbaende.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-8_Besondere-Bestimmungen-fuer-Gemeinden-und-Gemeindeverbaende.md`  
 **§§:** 94-95
 
 **Keywords:** Gemeinden Pflichten gegenüber Bürgern, Verwaltungsgemeinschaften Aufgaben
@@ -1917,7 +1917,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 1.5.9 LVwVfG-BW Teil 9: Schlussvorschriften
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-9_Schlussvorschriften.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVfG-BW_TEIL-9_Schlussvorschriften.md`  
 **§§:** 96-103
 
 **Keywords:** länderübergreifende Verfahren, Verteidigungsfall, Übergangsvorschriften
@@ -1935,7 +1935,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 1.6 Landesverwaltungsvollstreckungsgesetz (LVwVG-BW)
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVG - BW.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwVG - BW.md`  
 **§§:** 1-35
 
 **Keywords:** Verwaltungsvollstreckung, Vollstreckung Verwaltungsakt, Zwangsmittel, Zwangsgeld, Zwangshaft, Ersatzvornahme, unmittelbarer Zwang, Zwangsräumung, Mahnung, Beitreibung
@@ -1960,7 +1960,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 1.7 Landesverwaltungszustellungsgesetz (LVwZG-BW)
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwZG - BW.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LVwZG - BW.md`  
 **§§:** 1-13
 
 **Keywords:** Verwaltungszustellung, Zustellung Verwaltungsakt, Empfangsbekenntnis, elektronische Zustellung, De-Mail, öffentliche Zustellung, Einschreiben Rückschein
@@ -1984,7 +1984,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 1.8 Feuerwehrgesetz Baden-Württemberg (FwG-BW)
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/FwG-BW.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/FwG-BW.md`  
 **§§:** 1-40
 
 **Keywords:** Feuerwehr, Gemeindefeuerwehr, Freiwillige Feuerwehr, Berufsfeuerwehr, Feuerwehrkommandant, Werkfeuerwehr, Leitstelle, Notruf 112, Kostenersatz Feuerwehreinsatz, Überlandhilfe
@@ -2008,7 +2008,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 1.9 Landeskatastrophenschutzgesetz (LKatSG-BW)
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LKatSG-BW.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LKatSG-BW.md`  
 **§§:** 1-44
 
 **Keywords:** Katastrophenschutz, Katastrophe, Katastrophenbehörde, Katastrophenalarm, Großschadensereignis, außergewöhnliche Einsatzlage, externe Notfallpläne
@@ -2032,7 +2032,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 1.10 Rettungsdienstgesetz Baden-Württemberg (RDG-BW)
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/RDG-BW.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/RDG-BW.md`  
 **§§:** 1-61
 
 **Keywords:** Rettungsdienst, Notfallrettung, Krankentransport, Notarzt, Rettungswagen, Integrierte Leitstelle, Telenotarzt, Luftrettung, Eintreffzeit, Helfer-vor-Ort
@@ -2065,7 +2065,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 2.1.1 LBO-BW Teil 1: Allgemeine Vorschriften
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-1_Allgemeine-Vorschriften.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-1_Allgemeine-Vorschriften.md`  
 **§§:** 1-3
 
 **Keywords:** Gebäudeklassen, Vollgeschoss, Aufenthaltsräume, Barrierefreiheit
@@ -2085,7 +2085,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 2.1.2 LBO-BW Teil 2: Grundstück und Bebauung
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-2_Grundstueck-und-Bebauung.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-2_Grundstueck-und-Bebauung.md`  
 **§§:** 4-10
 
 **Keywords:** Abstandsflächen, Grenzbebauung, Wandhöhe, Kinderspielplätze, Waldabstand 30 Meter
@@ -2106,7 +2106,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 2.1.3 LBO-BW Teil 3: Allgemeine Anforderungen BauausführungAllgemeine
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-3_Allgemeine-Anforderungen-an-die-Bauausfuehrung.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-3_Allgemeine-Anforderungen-an-die-Bauausfuehrung.md`  
 **§§:** 11-16a
 
 **Keywords:** Gestaltung, Standsicherheit, Brandschutz, Rettungswege, Rauchwarnmelder, Verkehrssicherheit, Umwehrungen
@@ -2126,7 +2126,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 2.1.4 LBO-BW Teil 4: Bauprodukte
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-4_Bauprodukte.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-4_Bauprodukte.md`  
 **§§:** 16b-25
 
 **Keywords:** Bauprodukte, CE-Kennzeichnung, bauaufsichtliche Zulassung, Ü-Zeichen, Übereinstimmungserklärung
@@ -2146,7 +2146,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 2.1.5 LBO-BW Teil 5: Der Bau und seine Teile
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-5_Der-Bau-und-seine-Teile.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-5_Der-Bau-und-seine-Teile.md`  
 **§§:** 26-33
 
 **Keywords:** Brandverhalten Baustoffe, Feuerwiderstand, Brandwände, notwendige Treppen, Treppenräume, harte Bedachung
@@ -2166,7 +2166,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 2.1.6 LBO-BW Teil 6: Einzelne Räume, Wohnungen, besondere Anlagen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-6_Einzelne-Raeume-Wohnungen-besondere_Anlagen.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-6_Einzelne-Raeume-Wohnungen-besondere_Anlagen.md`  
 **§§:** 34-40
 
 **Keywords:** Aufenthaltsräume lichte Höhe, Stellplätze, Stellplatzablöse, Garagen, Sonderbauten, Hochhaus, Barrierefreiheit
@@ -2187,7 +2187,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 2.1.7 LBO-BW Teil 7: Am Bau Beteiligte, Baurechtsbehörden
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-7_Am_Bau_Beteiligte_Baurechtsbehoerden.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-7_Am_Bau_Beteiligte_Baurechtsbehoerden.md`  
 **§§:** 41-48
 
 **Keywords:** Bauherr, Entwurfsverfasser, Bauleiter, Bauunternehmer, Baurichtsbehörden, untere Bauaufsichtsbehörde
@@ -2207,7 +2207,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 2.1.8 LBO-BW Teil 8: Verwaltungsverfahren, Baulasten
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-8_Verwaltungsverfahren-Baulasten.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-8_Verwaltungsverfahren-Baulasten.md`  
 **§§:** 49-68
 
 **Keywords:** Baugenehmigung, genehmigungspflichtig, verfahrensfrei, Kenntnisgabeverfahren, vereinfachtes Verfahren, Bauantrag, Baulasten, Baulastenverzeichnis, Nachbarbenachrichtigung, Abweichungen
@@ -2229,7 +2229,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 2.1.9 LBO-BW Teil 9: Sondervorschriften
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-9_Sondervorschriften.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-9_Sondervorschriften.md`  
 **§§:** 69-72
 
 **Keywords:** Fliegende Bauten, Zelte, geothermische Anlagen, Aufschüttungen, Abgrabungen
@@ -2249,7 +2249,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 2.1.10 LBO-BW Teil 10: Verordnungsermächtigungen
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-10_Verordnungsermaechtigung.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-10_Verordnungsermaechtigung.md`  
 **§§:** 73-74
 
 **Keywords:** Technische Baubestimmungen, Verordnungsermächtigung
@@ -2266,7 +2266,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 2.1.11 LBO-BW Teil 11: Ordnungswidrigkeiten, Schlussvorschriften
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-11_Ordnungswidrigkeiten_Schlussvorschriften.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_TEIL-11_Ordnungswidrigkeiten_Schlussvorschriften.md`  
 **§§:** 75-79
 
 **Keywords:** Ordnungswidrigkeiten Baurecht, Bußgeld Bauen ohne Genehmigung, Bestandsschutz, Einvernehmen Gemeinde
@@ -2285,7 +2285,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 #### 2.1.12 LBO-BW Anhang: Verfahrensfreie Vorhaben
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_Anhang_verfahrensfreie_Vorhaben.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/LBO-BW_Anhang_verfahrensfreie_Vorhaben.md`  
 **Anhang zu § 50 Abs. 1**
 
 **Keywords:** verfahrensfrei, genehmigungsfrei, Gartenhaus, Carport, Solaranlage, Wärmepumpe, Zaun, Terrasse
@@ -2306,7 +2306,7 @@ Der Gemeindeverwaltungsverband (GVV) Raum Bad Boll ist eine **Verwaltungsgemeins
 
 ### 2.2 Verordnung DurchführungBaugesetzbuch (BauGBDV-BW)
 
-**Datei:** `https://raw.githubusercontent.com/amtsschimmel-ai/ragsource/refs/heads/main/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/BauGBDV-BW.md`  
+**Datei:** `/10_REGELUNGSRAHMEN/Regelungsmodul-LAND-BW/Landesgesetze-BW/BauGBDV-BW.md`  
 **§§:** 1-10
 
 **Keywords:** Baugesetzbuch Durchführung, Flächennutzungsplan Genehmigung, Umlegungsausschuss, Enteignungsverfahren
